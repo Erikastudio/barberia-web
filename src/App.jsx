@@ -10,7 +10,7 @@ function App() {
 - Servicio: ${servicio}`;
 
     window.open(
-      `https://wa.me/573208355266?text=${encodeURIComponent(mensaje)}`,
+      `https://wa.me/573134623765?text=${encodeURIComponent(mensaje)}`,
       "_blank"
     );
   };
