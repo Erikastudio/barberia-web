@@ -19,7 +19,7 @@ function App() {
     <div style={styles.page}>
       {/* WHATSAPP FLOTANTE */}
       <a
-        href="https://wa.me/573208355266?text=Hola%20quiero%20agendar%20una%20cita"
+        href="https://wa.me/573134623765?text=Hola%20quiero%20agendar%20una%20cita"
         target="_blank"
         style={styles.whatsapp}
       >
