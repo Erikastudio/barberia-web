@@ -25,7 +25,6 @@ function App() {
       >
         💬 WhatsApp
       </a>
-
       {/* HERO */}
       <header style={styles.hero}>
         <div style={styles.overlay}></div>
